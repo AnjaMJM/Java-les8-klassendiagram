@@ -22,4 +22,5 @@
 - Het opvragen van voor die functie belangrijke gegevens dient binnen 3 klikken vanaf het basisscherm beschikbaar te zijn.
 - De producten kunnen worden gesorteerd op categorie en alfabetische volgorde
 
-minimaal 5 klassen in een klassendiagram (met properties en relaties)
+### minimaal 5 klassen in een klassendiagram (met properties en relaties)
+klassendiagram terug te vinden in assets-map, techItEasy.pdf.
