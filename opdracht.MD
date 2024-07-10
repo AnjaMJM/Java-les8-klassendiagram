@@ -23,4 +23,4 @@
 - De producten kunnen worden gesorteerd op categorie en alfabetische volgorde
 
 ### minimaal 5 klassen in een klassendiagram (met properties en relaties)
-klassendiagram terug te vinden in assets-map, techItEasy.pdf.
+klassendiagram terug te vinden in assets-map, techItEasy.pdf
